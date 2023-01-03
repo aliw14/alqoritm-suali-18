@@ -1,0 +1,23 @@
+﻿<Properties StartupConfiguration="{03A961C7-DE2E-452D-89DD-702296907F30}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="alqoritm suali 18/Program.cs">
+    <Files>
+      <File FileName="alqoritm suali 18/Program.cs" Line="7" Column="9" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="alqoritm suali 18" expanded="True">
+            <Node name="alqoritm suali 18" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.alqoritm_220suali_22018 PreferredExecutionTarget="MonoDevelop.Default" FirstBuild="True" />
+</Properties>

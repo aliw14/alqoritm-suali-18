@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "alqoritm suali 18/1.0.0": {
+        "runtime": {
+          "alqoritm suali 18.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "alqoritm suali 18/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
